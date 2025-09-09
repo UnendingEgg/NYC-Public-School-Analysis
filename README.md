@@ -17,16 +17,21 @@ This project explores demographic and socioeconomic patterns in New York City pu
 ## Tools & Libraries
 
 Python 3.9+
-
-Pandas - data manipulation
-
+Pandas - Data manipulation
 Plotly Express - Interactive visualizations
-
-Statsmodel - Statistical Analysis
+Statsmodel - Statistical analysis
 
 ## Dataset
 
-The dataset (schools.csv) contains NYC public high school demographic information.
+The dataset (schools.csv) contains NYC public high school demographic information. Each row represents a school
+
+Columns include:
+
+1. school_name, the name of the school
+2. total_enrollment, the count of all enrolled students
+3. percent_students_with_disabilities, the percentage of enrolled students that have been diagnosed with a disability
+4. percent_english_learners, the percentage of students who are learning English as a second language
+5. percent_poverty, the percentage of students who are considered impoverished
 
 ## How to Run
 
