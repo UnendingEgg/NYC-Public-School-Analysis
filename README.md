@@ -5,6 +5,8 @@ Analysis of NYC public high school data using pandas, plotly express, and statsm
 
 This project explores demographic and socioeconomic patterns in New York City public high schools. Using data visualization and statistical analysis, I investigated relationships between student enrollment, disability status, English language learners, and poverty levels.
 
+**NOTE**: Plotly graphs do not play nicely with Github. I have uploaded all figures in a separate folder, which have names corresponding to the labels given in code.
+
 ## Key Findings
 
 1. Typical NYC high schools have 200–550 students enrolled.
